@@ -1,6 +1,6 @@
 
-# Welcome to LearnCS8 Resume Website
+# My Psychology Resume
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
-
-Special thanks to the open source bootstrap libraries that made this website possible. 
+This website was created for the purpose of not only adding my resume but also practicing coding.
+Special thanks to the Toby Gustafson that made this website possible. 
+![description of image](img/yourimage.png)
